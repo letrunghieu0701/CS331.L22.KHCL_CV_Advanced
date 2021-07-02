@@ -3,10 +3,12 @@
 Link: https://drive.google.com/drive/folders/1R2yBOZyqp55qt8Nv9l6ZO5nZ9BhtL_Bw?usp=sharing
 Link trên chỉ có thể mở được với những người có email của Trường Đại học Công nghệ thông tin, Đại học Quốc gia Thành phố Hồ Chí Minh
 Link Google Drive bao gồm: Code, dataset
-- File:
+
+-File:
 + sample_submission.csv: dùng để tạo file submit kết quả lên Kaggle
 + train.csv: chứa tên của các ảnh train và nhãn của từng ảnh
 + test.csv: chứa tên của các ảnh test
+
 -Thư mục:
 + Code: code của đồ án
 + images: ảnh nguyên gốc từ Kaggle
